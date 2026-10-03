@@ -1,0 +1,6 @@
+{
+  "name": "Workwide — Remote Work Life & Distributed Teams",
+  "description": "Platform for remote work life featuring a curated job board, distributed team tools directory, async productivity playbooks, and community forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
